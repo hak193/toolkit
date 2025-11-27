@@ -44,7 +44,7 @@
   },
   "devDependencies": {
     "@types/nock": "^11.1.0",
-    "@types/semver": "^6.0.0",
+    "@types/semver": "^7.7.1",
     "nock": "^13.2.9"
   }
 }
